@@ -1,0 +1,124 @@
+[
+  {
+    "type": "HTML",
+    "list": [
+      {
+        "name": "HTML5",
+        "percentage": 90
+      },
+      {
+        "name": "JSX",
+        "percentage": 90
+      }
+    ]
+  },
+  {
+    "type": "CSS",
+    "list": [
+      {
+        "name": "CSS3",
+        "percentage": 90
+      },
+      {
+        "name": "Bootstrap",
+        "percentage": 90
+      },
+      {
+        "name": "SASS",
+        "percentage": 90
+      },
+      {
+        "name": "LESS",
+        "percentage": 0
+      },
+      {
+        "name": "Materialize",
+        "percentage": 0
+      },
+      {
+        "name": "Tailwind",
+        "percentage": 0
+      }
+    ]
+  },
+  {
+    "type": "JavaScript",
+    "list": [
+      {
+        "name": "JavaScript",
+        "percentage": 75
+      },
+      {
+        "name": "React",
+        "percentage": 60
+      },
+      {
+        "name": "Redux",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "type": "Back-End",
+    "list": [
+      {
+        "name": "Node.js",
+        "percentage": 0
+      },
+      {
+        "name": "MySql",
+        "percentage": 40
+      },
+      {
+        "name": "MongoDB",
+        "percentage": 0
+      }
+    ]
+  },
+  {
+    "type": "Tools",
+    "list": [
+      {
+        "name": "Photoshop",
+        "percentage": 40
+      },
+      {
+        "name": "Premiere",
+        "percentage": 40
+      },
+      {
+        "name": "Xd",
+        "percentage": 85
+      },
+      {
+        "name": "Figma",
+        "percentage": 0
+      }
+    ]
+  },
+  {
+    "type": "Others",
+    "list": [
+      {
+        "name": "Trello",
+        "percentage": 90
+      },
+      {
+        "name": "Github",
+        "percentage": 60
+      },
+      {
+        "name": "Git",
+        "percentage": 60
+      },
+      {
+        "name": "NPM",
+        "percentage": 50
+      },
+      {
+        "name": "SEO",
+        "percentage": 80
+      }
+    ]
+  }
+]

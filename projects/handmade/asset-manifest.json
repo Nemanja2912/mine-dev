@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dc88c3ca.css",
+    "main.js": "./static/js/main.542da65d.js",
+    "static/js/356.cd5d514e.chunk.js": "./static/js/356.cd5d514e.chunk.js",
+    "static/media/reel.mp4": "./static/media/reel.edd56e950d5fab9cfa19.mp4",
+    "static/media/location.png": "./static/media/location.8fd08e8b319213e665b0.png",
+    "static/media/about2.jpg": "./static/media/about2.364c82624c17473f0715.jpg",
+    "static/media/about.jpg": "./static/media/about.bb13d8eb935593339f60.jpg",
+    "static/media/services.png": "./static/media/services.721c59a61ece0be4ab97.png",
+    "static/media/trophy.png": "./static/media/trophy.5f9dc4f14e683d1fba30.png",
+    "static/media/trophy.mp4": "./static/media/trophy.1b4edf31e9d664837b07.mp4",
+    "static/media/ux2.png": "./static/media/ux2.6d2198f3a2e2e2fa89f5.png",
+    "static/media/ui2.png": "./static/media/ui2.6d853f62c64d43515590.png",
+    "static/media/sprite.svg": "./static/media/sprite.80135ecc1a7d801bff256ddfd161d746.svg",
+    "static/media/inovation1.png": "./static/media/inovation1.86cb631aacb79bb3f714.png",
+    "static/media/kudos2.png": "./static/media/kudos2.24db2e0f89904b3f154f.png",
+    "static/media/kudos1.png": "./static/media/kudos1.afb2d8c85ece85176603.png",
+    "static/media/ux1.png": "./static/media/ux1.f675484eb798de00ce2a.png",
+    "static/media/kudos3.png": "./static/media/kudos3.e2b5a9a289ced41cad67.png",
+    "static/media/inovation2.png": "./static/media/inovation2.9dff7f75d0c7a04b1a18.png",
+    "static/media/ui1.png": "./static/media/ui1.f9a8abc6d711e42d2b59.png",
+    "static/media/email.svg": "./static/media/email.e0335741e93ca123eed941a3e330d0de.svg",
+    "static/media/logo-black.svg": "./static/media/logo-black.80ef26666638f2a0a7e412d877223bf0.svg",
+    "static/media/logo.svg": "./static/media/logo.b883c2e5e2183d36942087d6aaaeeea5.svg",
+    "static/media/stars.svg": "./static/media/stars.987ed5ce5091d0580442ac57775390da.svg",
+    "static/media/clutch.svg": "./static/media/clutch.346fe68d9f22d535264c58ec6f0ed48b.svg",
+    "index.html": "./index.html",
+    "main.dc88c3ca.css.map": "./static/css/main.dc88c3ca.css.map",
+    "main.542da65d.js.map": "./static/js/main.542da65d.js.map",
+    "356.cd5d514e.chunk.js.map": "./static/js/356.cd5d514e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc88c3ca.css",
+    "static/js/main.542da65d.js"
+  ]
+}

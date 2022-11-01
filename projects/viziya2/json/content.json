@@ -1,0 +1,775 @@
+{
+  "EN": {
+    "navigation": {
+      "close": "Close",
+      "menu": "Menu",
+      "homePage": "Home",
+      "projectsPage": "Projects",
+      "aboutUsPage": "Abous Us",
+      "servicesPage": "Services",
+      "contactsPage": "Contacts",
+      "formText": "Leave a request",
+      "formText2": "to start working together",
+      "formName": "Your name",
+      "formEmail": "Your email",
+      "formMessage": "Your message",
+      "send": "Send",
+      "mobButton": "Email us"
+    },
+    "home": {
+      "homeHeroTitle": "Architecture and design",
+      "homeHeroDescription": "We design buildings and interiors; streetscapes and landscapes; graphics and wayfinding.",
+      "homeHeroButton1": "Contact us",
+      "homeHeroButton2": "All project",
+      "homeProjectTitle": "Make plans visual",
+      "homeProjectDescription": "You can get 3D-visualisation images, animations and videos for your architectural projects from the Gork Studio. We create realistic computer graphics for residential, commercial and industrial real estate and urban spaces.",
+      "projectBoxButton": "More",
+      "projectBoxList": [
+        "Development technical terms of reference",
+        "Preliminary design",
+        "Interior design",
+        "Working project",
+        "Project management",
+        "Construction and repair of the object"
+      ],
+      "projectSlider": [
+        {
+          "title": "01. Forest house",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project1.jpg"
+        },
+        {
+          "title": "02. Forest house2",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project2.jpg"
+        },
+        {
+          "title": "Forest house3",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project3.jpg"
+        },
+        {
+          "title": "Forest house4",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project4.jpg"
+        }
+      ],
+      "projectSliderTitle": "Projects",
+      "projectSliderButton": "Learn more",
+      "counterTitle": "Design inspired by you",
+      "counterDesc": "This is the studio philosophy reflected in its motto and its name. Viziya.",
+      "counterBoxLetter": "k",
+      "counterBox1Value": "400",
+      "counterBox1Label": "projects realized internationally",
+      "counterBox2Value": "20",
+      "counterBox2Label": "years of experience",
+      "counterBox3Value": "99",
+      "counterBox3Label": "sq meters realized",
+      "imageAreaText": "We are always open for cooperation and are glad to see new projects"
+    },
+    "footer": {
+      "address": "Vojvode Stepe 141,",
+      "city": "Belgrade, Serbia",
+      "created": "Created by",
+      "author": "Mine Dev",
+      "phoneLabel": "Our phone number",
+      "phone": "+7 (916) 45-34-33",
+      "emailLabel": "Our e-mail",
+      "email": "office@viziya.rs",
+      "copyrights": "© 1999 – 2022   Viziya"
+    },
+    "project": {
+      "projectTitle": "Projects",
+      "projectList": [
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project1.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project2.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project3.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project4.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project5.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project6.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project7.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project8.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        }
+      ]
+    },
+    "about": {
+      "title": "About Us",
+      "line1": "Serve.",
+      "line2": "Preserve.",
+      "line3": "Inovate.",
+      "mainText": "Not everyone has the opportunity to build their future home, apartment or office. And this wonderful moment should give joy and happiness. But the harsh reality will inevitably interfere with your joy. When questions about the amount of bricks, tiles and paint begin to arise, happiness is often replaced by a headache. VIZIA is a group of architects who will help you find answers to them. We will turn your vision into reality! Any professional strives to complete his work efficiently and to the end. Where, then, do all these long-lived, carelessly done works come from, why does nothing ever give up on time? The answer is simple: due to the lack of communication between the customer and the contractor. They do not understand each other. The customer is convinced that he paid for the work, and nothing more is required of him. The contractor believes that this is not enough.",
+      "subtitle1": "Professional service",
+      "text1": "The development of each project is a process. There are no 'small' and 'large' projects in our business. Often, a 'small' project is more difficult than a 'large' one. And this means that each project needs to be given equal attention, and then the result will not disappoint. And also, to avoid disappointment, you need to plan everything in advance, this will help to avoid unnecessary actions and waste.",
+      "subtitle2": "Project development",
+      "text2": "The project development process is the same throughout the world, and only following its stages guarantees the result. The so-called 'Design Algorithm' is a list of operations that must be performed for the successful implementation of the project. The system sequence and the technological scheme for performing these operations ensures the sequence of the process of coordinating positions, and, accordingly, the schedule of work. Complex positions are divided into many simple, easy to do components. The consistent implementation of these simple steps constitutes the project’s work cycle and leads to its successful completion."
+    },
+    "service": {
+      "title": "Our Services",
+      "priceTitle": "PRICE STARTING AT:",
+      "note": "*the rate depends on the project size and other specifications",
+      "collapse": [
+        {
+          "button": "Turnkey interior",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Interior design",
+          "description": "2This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Architectural design",
+          "description": "3This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Designer supervision",
+          "description": "4This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        }
+      ],
+      "accordionTitle": ["ARCHITECTURAL", "DESIGN STEPS"],
+      "accordion": [
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "desc": [
+        "We are always open for cooperation",
+        "and are glad to see new projects"
+      ],
+      "phoneLabel": "Our phone number",
+      "phone": "+7 (916) 45-34-33",
+      "emailLabel": "Our e-mail",
+      "email": "office@viziya.rs",
+      "formTitle": ["Leave a request to", "start working together"]
+    }
+  },
+  "RU": {
+    "navigation": {
+      "close": "Закрыть",
+      "menu": "Меню",
+      "homePage": "Главная",
+      "projectsPage": "Проекты",
+      "aboutUsPage": "О нас",
+      "servicesPage": "Услуги",
+      "contactsPage": "Контакт",
+      "formText": "Отправить заявку",
+      "formText2": "Начнем работу",
+      "formName": "Ваше имя",
+      "formEmail": "Ваш email",
+      "formMessage": "Сообщение"
+    },
+    "home": {
+      "homeHeroTitle": "Architecture and design",
+      "homeHeroDescription": "We design buildings and interiors; streetscapes and landscapes; graphics and wayfinding.",
+      "homeHeroButton1": "Contact us",
+      "homeHeroButton2": "All project",
+      "homeProjectTitle": "Make plans visual",
+      "homeProjectDescription": "You can get 3D-visualisation images, animations and videos for your architectural projects from the Gork Studio. We create realistic computer graphics for residential, commercial and industrial real estate and urban spaces.",
+      "projectBoxButton": "More",
+      "projectBoxList": [
+        "Development technical terms of reference",
+        "Preliminary design",
+        "Interior design",
+        "Working project",
+        "Project management",
+        "Construction and repair of the object"
+      ],
+      "projectSlider": [
+        {
+          "title": "Forest house",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project1.jpg"
+        },
+        {
+          "title": "Forest house2",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project2.jpg"
+        },
+        {
+          "title": "Forest house3",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project3.jpg"
+        },
+        {
+          "title": "Forest house4",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project4.jpg"
+        }
+      ],
+      "projectSliderTitle": "Projects",
+      "projectSliderButton": "Learn more",
+      "counterTitle": "Design inspired by you",
+      "counterDesc": "This is the studio philosophy reflected in its motto and its name. Viziya.",
+      "counterBoxLetter": "k",
+      "counterBox1Value": "400",
+      "counterBox1Label": "projects realized internationally",
+      "counterBox2Value": "20",
+      "counterBox2Label": "years of experience",
+      "counterBox3Value": "99",
+      "counterBox3Label": "sq meters realized",
+      "imageAreaText": "We are always open for cooperation and are glad to see new projects"
+    },
+    "footer": {
+      "address": "Vojvode Stepe 141,",
+      "city": "Belgrade, Serbia",
+      "created": "Created by",
+      "author": "Mine Dev",
+      "phoneLabel": "Our phone number",
+      "phone": "+7 (916) 45-34-33",
+      "emailLabel": "Our e-mail",
+      "email": "office@viziya.rs",
+      "copyrights": "© 1999 – 2022   Viziya"
+    },
+    "project": {
+      "projectTitle": "Projects",
+      "projectList": [
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project1.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project2.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project3.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project4.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project5.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project6.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project7.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project8.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        }
+      ]
+    },
+    "about": {
+      "title": "About Us",
+      "line1": "Serve.",
+      "line2": "Preserve.",
+      "line3": "Inovate.",
+      "mainText": "Not everyone has the opportunity to build their future home, apartment or office. And this wonderful moment should give joy and happiness. But the harsh reality will inevitably interfere with your joy. When questions about the amount of bricks, tiles and paint begin to arise, happiness is often replaced by a headache. VIZIA is a group of architects who will help you find answers to them. We will turn your vision into reality! Any professional strives to complete his work efficiently and to the end. Where, then, do all these long-lived, carelessly done works come from, why does nothing ever give up on time? The answer is simple: due to the lack of communication between the customer and the contractor. They do not understand each other. The customer is convinced that he paid for the work, and nothing more is required of him. The contractor believes that this is not enough.",
+      "subtitle1": "Professional service",
+      "text1": "The development of each project is a process. There are no 'small' and 'large' projects in our business. Often, a 'small' project is more difficult than a 'large' one. And this means that each project needs to be given equal attention, and then the result will not disappoint. And also, to avoid disappointment, you need to plan everything in advance, this will help to avoid unnecessary actions and waste.",
+      "subtitle2": "Project development",
+      "text2": "The project development process is the same throughout the world, and only following its stages guarantees the result. The so-called 'Design Algorithm' is a list of operations that must be performed for the successful implementation of the project. The system sequence and the technological scheme for performing these operations ensures the sequence of the process of coordinating positions, and, accordingly, the schedule of work. Complex positions are divided into many simple, easy to do components. The consistent implementation of these simple steps constitutes the project’s work cycle and leads to its successful completion."
+    },
+    "service": {
+      "title": "Our Services",
+      "priceTitle": "PRICE STARTING AT:",
+      "note": "*the rate depends on the project size and other specifications",
+      "collapse": [
+        {
+          "button": "Turnkey interior",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Interior design",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Architectural design",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Designer supervision",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        }
+      ],
+      "accordionTitle": ["ARCHITECTURAL", "DESIGN STEPS"],
+      "accordion": [
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "desc": [
+        "We are always open for cooperation",
+        "and are glad to see new projects"
+      ],
+      "phoneLabel": "Our phone number",
+      "phone": "+7 (916) 45-34-33",
+      "emailLabel": "Our e-mail",
+      "email": "office@viziya.rs",
+      "formTitle": ["Leave a request to", "start working together"]
+    }
+  },
+  "SR": {
+    "navigation": {
+      "close": "Zatvori",
+      "menu": "Meni",
+      "homePage": "Početna",
+      "projectsPage": "Projekti",
+      "aboutUsPage": "O nama",
+      "servicesPage": "Usluge",
+      "contactsPage": "Kontakt",
+      "formText": "Ostavi zahtev",
+      "formText2": "da počnemo novi projekat",
+      "formName": "Tvoje ime",
+      "formEmail": "Tvoj email",
+      "formMessage": "Tvoja poruka"
+    },
+    "home": {
+      "homeHeroTitle": "Architecture and design",
+      "homeHeroDescription": "We design buildings and interiors; streetscapes and landscapes; graphics and wayfinding.",
+      "homeHeroButton1": "Contact us",
+      "homeHeroButton2": "All project",
+      "homeProjectTitle": "Make plans visual",
+      "homeProjectDescription": "You can get 3D-visualisation images, animations and videos for your architectural projects from the Gork Studio. We create realistic computer graphics for residential, commercial and industrial real estate and urban spaces.",
+      "projectBoxButton": "More",
+      "projectBoxList": [
+        "Development technical terms of reference",
+        "Preliminary design",
+        "Interior design",
+        "Working project",
+        "Project management",
+        "Construction and repair of the object"
+      ],
+      "projectSlider": [
+        {
+          "title": "Forest house",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project1.jpg"
+        },
+        {
+          "title": "Forest house2",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project2.jpg"
+        },
+        {
+          "title": "Forest house3",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project3.jpg"
+        },
+        {
+          "title": "Forest house4",
+          "desc": "This visualization project is about the building in the historical center of Omsk city, Russia. Initially, it was built as a hotel for the 2018 FIFA world Cup, but the project was not completed as supposed.",
+          "image": "project4.jpg"
+        }
+      ],
+      "projectSliderTitle": "Projects",
+      "projectSliderButton": "Learn more",
+      "counterTitle": "Design inspired by you",
+      "counterDesc": "This is the studio philosophy reflected in its motto and its name. Viziya.",
+      "counterBoxLetter": "k",
+      "counterBox1Value": "400",
+      "counterBox1Label": "projects realized internationally",
+      "counterBox2Value": "20",
+      "counterBox2Label": "years of experience",
+      "counterBox3Value": "99",
+      "counterBox3Label": "sq meters realized",
+      "imageAreaText": "We are always open for cooperation and are glad to see new projects"
+    },
+    "footer": {
+      "address": "Vojvode Stepe 141,",
+      "city": "Belgrade, Serbia",
+      "created": "Created by",
+      "author": "Mine Dev",
+      "phoneLabel": "Our phone number",
+      "phone": "+7 (916) 45-34-33",
+      "emailLabel": "Our e-mail",
+      "email": "office@viziya.rs",
+      "copyrights": "© 1999 – 2022   Viziya"
+    },
+    "project": {
+      "projectTitle": "Projects",
+      "projectList": [
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project1.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project2.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project3.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project4.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project5.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project6.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project7.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        },
+        {
+          "title": "Forest house",
+          "sqm": "261 sq.m.",
+          "location": "Switzerland",
+          "image": "project8.jpg",
+          "slider": [
+            "project1/project1.jpg",
+            "project1/project2.jpg",
+            "project1/project3.jpg",
+            "project1/project4.jpg"
+          ]
+        }
+      ]
+    },
+    "about": {
+      "title": "About Us",
+      "line1": "Serve.",
+      "line2": "Preserve.",
+      "line3": "Inovate.",
+      "mainText": "Not everyone has the opportunity to build their future home, apartment or office. And this wonderful moment should give joy and happiness. But the harsh reality will inevitably interfere with your joy. When questions about the amount of bricks, tiles and paint begin to arise, happiness is often replaced by a headache. VIZIA is a group of architects who will help you find answers to them. We will turn your vision into reality! Any professional strives to complete his work efficiently and to the end. Where, then, do all these long-lived, carelessly done works come from, why does nothing ever give up on time? The answer is simple: due to the lack of communication between the customer and the contractor. They do not understand each other. The customer is convinced that he paid for the work, and nothing more is required of him. The contractor believes that this is not enough.",
+      "subtitle1": "Professional service",
+      "text1": "The development of each project is a process. There are no 'small' and 'large' projects in our business. Often, a 'small' project is more difficult than a 'large' one. And this means that each project needs to be given equal attention, and then the result will not disappoint. And also, to avoid disappointment, you need to plan everything in advance, this will help to avoid unnecessary actions and waste.",
+      "subtitle2": "Project development",
+      "text2": "The project development process is the same throughout the world, and only following its stages guarantees the result. The so-called 'Design Algorithm' is a list of operations that must be performed for the successful implementation of the project. The system sequence and the technological scheme for performing these operations ensures the sequence of the process of coordinating positions, and, accordingly, the schedule of work. Complex positions are divided into many simple, easy to do components. The consistent implementation of these simple steps constitutes the project’s work cycle and leads to its successful completion."
+    },
+    "service": {
+      "title": "Our Services",
+      "priceTitle": "PRICE STARTING AT:",
+      "note": "*the rate depends on the project size and other specifications",
+      "collapse": [
+        {
+          "button": "Turnkey interior",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Interior design",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Architectural design",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        },
+        {
+          "button": "Designer supervision",
+          "description": "This service includes 3D visualization, work plans, estimates and completion of the project. All in accordance with your preferences with minimum involvement of yours.",
+          "price": "$75/M2"
+        }
+      ],
+      "accordionTitle": ["ARCHITECTURAL", "DESIGN STEPS"],
+      "accordion": [
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        },
+        {
+          "title": "BRIEFING",
+          "description": "Dividing land into functionality zones: playground, pool, barbeque etc. Delivered in the form of sketch.",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi itaque, sapiente eligendi atque explicabo quos incidunt dolore vel vero error unde soluta dignissimos sit eius ab beatae ex officia mollitia voluptates earum recusandae pariatur laudantium? Ad velit neque eius, inventore optio error cum, vitae asperiores, praesentiumea minus sit voluptas."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "desc": [
+        "We are always open for cooperation",
+        "and are glad to see new projects"
+      ],
+      "phoneLabel": "Our phone number",
+      "phone": "+7 (916) 45-34-33",
+      "emailLabel": "Our e-mail",
+      "email": "office@viziya.rs",
+      "formTitle": ["Leave a request to", "start working together"]
+    }
+  }
+}

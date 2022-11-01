@@ -1,0 +1,259 @@
+@font-face
+	font-family: "reg"
+	src : url("reg.ttf")
+@font-face
+	font-family: "bold"
+	src : url("bold.ttf")
+@font-face
+	font-family: "light"
+	src : url("light.ttf")
+@media (min-width: 1300px)
+	.new a:hover
+		color: #a0702d
+	.header-new
+		font:
+			size: 67px
+			family: bold
+		color: white
+		line-height: normal
+	.text-new
+		font:
+			size: 26px
+			family: reg
+		color: white
+		line-height: normal
+	.new
+		width: 100%
+		background: white
+		margin-top: 100px
+		color: black
+		font:
+			family: reg
+			size: 10px
+			weight: normal
+	.new-header
+		width: 100%
+		height: 685px
+		background: url('new/team-2.png')
+		background:
+			size: cover
+		display: flex
+		flex-direction: column
+		justify-content: flex-start
+		align-items: center
+		position: relative
+	.new-header__pattern
+		position: absolute
+		top: 0px
+		left: 0px
+		width: 225px
+	.new-header__top
+		margin-top: 275px
+		@extend .header-new
+	.new-header__bottom
+		width: 480px
+		margin-top: 10px
+	.new-main
+		width: 100%
+		height: 1945px
+		background: black
+		display: flex
+		flex-direction: column
+		justify-content: flex-start
+		align-items: center
+	.new-main__about
+		width:1170px
+		display: flex
+		flex-direction: row
+		justify-content: space-between
+		align-items: flex-start
+		margin-top:100px
+	.new-main__about-left-header
+		@extend .header-new
+		margin-top: -30px
+	.new-main__about-left-text
+		@extend .text-new
+		width: 563px
+	.new-main__about-right-pattern1
+		width: 330px
+	.new-main__about-right-header
+		@extend .header-new
+		margin-top: 10px
+		font-size: 25px
+		span
+			text-decoration: underline
+	.new-main__about-right-hr
+		width: 515px
+		height: 1px
+		background: #6f6f6f
+		margin:
+			top: 23px
+			bottom: 27px
+	.new-main__about-right-header2
+		@extend .header-new
+		font-size: 25px
+	.new-main__about-right-pattern2
+		width: 130px
+		margin-top: 5px
+		margin-bottom: 2px
+	.new-main__about-right-text
+		@extend .text-new
+		font-size: 25px
+		color: #848181
+	.new-main__about-right-header3
+		@extend .header-new
+		font-size: 24px
+		color: #00a580
+		margin-top: 5px
+	.new-main__about-right-text2
+		@extend .text-new
+		margin-top: 13px
+		width: 550px
+		span
+			text-decoration: underline
+	.new-main__ulti
+		display: flex
+		flex-direction: row
+		justify-content: flex-start
+		align-items: flex-start
+		margin-top: 120px
+	.new-main__ulti-left
+		width: 565px
+		margin-right: 100px
+	.new-main__ulti-right-header
+		@extend .header-new
+		width: 100px
+		line-height: 70px
+		margin-top: -15px
+	.new-main__ulti-right-text
+		@extend .text-new
+		width: 590px
+		margin-top: 10px
+	.new-live
+		width: 100%
+		height: 585px
+		background: url('../holidays-clipart-signature-16 - Copy.png')
+		background-size: cover
+		display: flex
+		flex-direction: column
+		justify-content: flex-start
+		align-items: center
+	.new-live__header
+		@extend .header-new
+		margin-top: 45px
+	.new-live__text
+		@extend .text-new
+		text-align: center
+		margin-top: 50px
+		width: 700px
+	.new-live__hr
+		width: 220px
+		height: 14px
+		background: white
+		margin-top: 90px
+	.new-bottom
+		height: 1750px
+		width: 100%
+		background: black
+		display: flex
+		flex-direction: column
+		justify-content: flex-start
+		align-items: center
+	.new-bottom__watch
+		margin-top: 120px
+		width: 1100px
+		display: flex
+		flex-direction: row
+		justify-content: space-between
+		align-items: flex-start
+		flex-wrap: wrap
+		> div:nth-child(1)
+			background: url("../image15.jpeg")
+			background-size: cover
+		> div:nth-child(2)
+			background: url("../as3.jpeg")
+			background-size: cover
+		> div:nth-child(3)
+			background: url("new/limo.png")
+			background-size: cover
+		> div:nth-child(4)
+			background: url("new/v13.png")
+			background-size: cover
+		> div:nth-child(5)
+			background: url("new/security.png")
+			background-size: cover
+		> div:nth-child(6)
+			background: url("new/BW-1500x750.png")
+			background-size: cover
+	.new-bottom__watch-item
+		width: 335px
+		height: 330px
+		cursor: pointer
+		margin-bottom: 40px
+	.new-bottom__watch-item-content
+		display: flex
+		flex-direction: row
+		justify-content: flex-start
+		align-items: flex-start
+		margin:
+			top:25px
+			left: 25px
+	.new-bottom__watch-item-content img
+		width: 25px
+		margin-right: 16px
+	.new-bottom__watch-item-content-header
+		@extend .header-new
+		font-size: 27px
+		margin-top: -10px
+	.new-bottom__team
+		width: 1100px
+		margin-top: 70px
+	.new-bottom__team-header
+		@extend .header-new
+	.new-bottom__team-text
+		@extend .text-new
+		margin-top: 25px
+	.new-bottom__empl
+		width: 1050px
+		display: flex
+		flex-direction: row
+		justify-content: flex-start
+		align-items: flex-start
+		flex-wrap: wrap
+		margin-top: 80px
+		img:nth-child(1)
+			width: 180px
+			margin-right: 115px
+		img:nth-child(2)
+			width: 80px
+			margin-right: 180px
+		img:nth-child(3)
+			width: 170px
+			margin-right: 130px
+		img:nth-child(4)
+			width: 190px
+			margin-top: -25px
+		img:nth-child(5)
+			width: 170px
+			margin-left: 115px
+			margin-right: 140px
+		img:nth-child(6)
+			width: 170px
+			margin-right: 130px
+			margin-top: -40px
+		img:nth-child(7)
+			width: 135px
+			margin-right: 190px	
+		img:nth-child(8)
+			width: 130px	
+			margin-right: 120px
+		img:nth-child(9)
+			width: 190px
+			margin-right: 170px
+		img:nth-child(10)
+			width: 105px
+			margin-right: 210px
+		img:nth-child(11)
+			width: 120px
+
+

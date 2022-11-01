@@ -1,0 +1,149 @@
+.dn{
+    display: none !important;
+}
+.over{
+    overflow: hidden !important;
+}
+.arrow-country{
+    position: relative;
+}
+body{
+    position: relative;
+}
+.selected-country{
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+.arrow-country:after{
+    content: '';
+    display: inline-block;
+    border-top: .3em solid #fff;
+    border-right: .3em solid transparent;
+    border-left: .3em solid transparent;
+    margin-left: 2px;
+}
+.selected-country:hover .arrow-country:after{
+    border-top: .3em solid #bd953f;
+}
+.flag-popup-selected{
+    position: relative;
+}
+.flag-overlay{
+    position: fixed;
+    top: 90px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 101;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flag-popup{
+    background-color: #ffffff;
+    width: 400px;
+    color: #111111;
+    position: relative;
+    min-height: 300px;
+}
+.flag-popup-title{
+    font-size: 20px;
+    background-color: #111;
+    padding: 10px 15px;
+    color: #ffffff;
+
+}
+.overlay-close{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+
+}
+.banner-area{
+    z-index: 10;
+    position: relative;
+}
+.flag-popup-selected{
+    font-size: 14px;
+    display: flex;
+    padding: 10px 15px;
+    align-items: center;
+    background-color: #bd953f;
+    color: #ffffff;
+}
+.flag-popup p{
+    margin: 0;
+}
+.flag-popup img{
+    margin-right: 10px;
+}
+.overlay-close-button{
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    height: 24px;
+    width: 24px;
+    top: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.overlay-close-button span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 1px;
+    width: 100%;
+    background-color: #fff;
+}
+.overlay-close-button span:first-child{
+    transform: translate(-50%,-50%) rotate(45deg);
+}
+.overlay-close-button span:last-child{
+    transform: translate(-50%,-50%) rotate(-45deg);
+}
+.arrow-check{
+    position: relative;
+    top: -8px;
+    margin-left: 20px;
+}
+.arrow-check:after{
+    position: absolute;
+    content: "";
+    height: 14px;
+    width: 2px;
+    transform: rotate(45deg);
+    display: block;
+    left: 0px;
+    background-color: #fff;
+}
+.arrow-check:before{
+    position: absolute;
+    content: '';
+    height: 8px;
+    width: 2px;
+    left: -7px;
+    top: 5px;
+    transform: rotate(-35deg) ;
+    display: block;
+    background-color: #fff;
+}
+
+.flag-popup-item{
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    color: #111111;
+}
+.flag-popup-item:hover{
+    background-color: #eeeeee;
+}
+@media only screen and (max-width: 480px) {
+    .flag-popup{
+        width: 100%;
+        height: 100%;
+    }
+}

@@ -1,0 +1,77 @@
+{
+  "workList": [
+    {
+      "type": "video",
+      "link": "https://www.youtube.com/embed/C6BGLgJY0Wg"
+    },
+    {
+      "type": "animation",
+      "link": "https://www.youtube.com/embed/Ci4ADYQD4vU"
+    },
+    {
+      "type": "recording",
+      "image": "audio1.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/male-hindi-vo"
+    },
+    {
+      "type": "recording",
+      "image": "audio2.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/radio-spots-stayzilla-male-english"
+    },
+    {
+      "type": "recording",
+      "image": "audio3.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/radio-vo-female-english"
+    },
+    {
+      "type": "recording",
+      "image": "audio4.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/quickr-female-english"
+    },
+    {
+      "type": "recording",
+      "image": "audio5.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/earth-one-vo"
+    },
+    {
+      "type": "recording",
+      "image": "audio6.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/english-ivr"
+    },
+    {
+      "type": "recording",
+      "image": "audio7.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/deal-shaper"
+    },
+    {
+      "type": "recording",
+      "image": "audio8.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/ineo-plus"
+    },
+    {
+      "type": "recording",
+      "image": "audio9.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/game-sample-2"
+    },
+    {
+      "type": "recording",
+      "image": "audio10.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/game-sample-1"
+    },
+    {
+      "type": "recording",
+      "image": "audio11.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/ctl-jingle-sample"
+    },
+    {
+      "type": "recording",
+      "image": "audio12.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/groovy-tune"
+    },
+    {
+      "type": "recording",
+      "image": "audio13.jpg",
+      "link": "https://soundcloud.com/spacebot-entertainment/beats-by-dr-dre"
+    }
+  ]
+}

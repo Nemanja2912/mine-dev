@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Meta -->
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale = 1.0, 
+        maximum-scale=1.0, user-scalable=no"
+    />
+
+    <!-- Title -->
+    <title>Space Bot</title>
+
+    <!-- Css -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+    />
+    <link href="src/css/style.css" rel="stylesheet" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+    </style>
+  </head>
+  <body class="work-body">
+    <!-- Navigation -->
+    <nav class="work-nav">
+      <a href="index.html">
+        <img src="assests/images/logo-yellow.png" class="scroll-in" alt="" />
+      </a>
+      <div class="text">
+        <a href="index.html">Home</a>
+        <a href="services.html">About</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </nav>
+
+    <div
+      id="setFullWidth"
+      class="work container-fluid cont d-flex flex-column justify-content-end"
+    >
+      <div class="row box-width">
+        <div
+          class="col-lg-7 d-flex cont-sect d-flex flex-column justify-content-end"
+        >
+          <div class="content">
+            <div>
+              <h2 class="typewriter-n">Our journey so far.</h2>
+              <div class="wrapper3">
+                <div class="output3 first-animation desktop">
+                  <div>
+                    <p class="transition scroll-in">
+                      We go into each project with the approach of trying to
+                    </p>
+                  </div>
+                  <div>
+                    <p class="transition scroll-in">
+                      solve our clients’ business problems.
+                    </p>
+                  </div>
+                </div>
+                <div class="output3 first-animation mobile">
+                  <div>
+                    <p class="transition scroll-in">
+                      We go into each project with the approach of trying
+                    </p>
+                  </div>
+                  <div>
+                    <p class="transition scroll-in">
+                      to solve our clients’ business problems.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="right col-lg-5 order-first order-lg-0">
+          <img src="assests/illustration/Work-01.png" alt="" />
+        </div>
+        <div class="col-12 scroll-in">
+          <a href="#section">
+            <p class="button">Portfolio <i class="fas fa-angle-down"></i></p>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div></div>
+
+    <div id="section" tabindex="-1" class="work-section container-fluid">
+      <div class="tabs">
+        <button tabindex="0" id="video" class="button active">Video</button>
+        <button tabindex="0" id="animation" class="button">Animation</button>
+        <button tabindex="0" id="recording" class="button">Recording</button>
+      </div>
+
+      <div id="gallery" class="gallery"></div>
+
+      <div id="pagination" class="pagination"></div>
+    </div>
+
+    <!-- Modal -->
+    <div
+      class="modal fade"
+      id="staticBackdrop"
+      tabindex="-1"
+      aria-labelledby="staticBackdropLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div id="modal-content" class="modal-body"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+      crossorigin="anonymous"
+    ></script>
+    <script src="src/javascript/project.js"></script>
+    <script src="src/javascript/animation.js"></script>
+
+    <script>
+      document.getElementById(
+        "setFullWidth"
+      ).style.minHeight = `${window.innerHeight}px`;
+    </script>
+  </body>
+</html>

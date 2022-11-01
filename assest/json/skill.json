@@ -1,0 +1,85 @@
+[
+  {
+    "type": "Basic",
+    "list": [
+      {
+        "name": "Git"
+      },
+      {
+        "name": "PowerShell"
+      },
+      {
+        "name": "Github"
+      }
+    ]
+  },
+  {
+    "type": "Frontend",
+    "list": [
+      {
+        "name": "HTML5"
+      },
+      {
+        "name": "JSX"
+      },
+      {
+        "name": "CSS3"
+      },
+      {
+        "name": "Bootstrap"
+      },
+      {
+        "name": "SASS"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "React"
+      },
+      {
+        "name": "Redux"
+      }
+    ]
+  },
+  {
+    "type": "Backend",
+    "list": [
+      {
+        "name": "MySql"
+      }
+    ]
+  },
+  {
+    "type": "Design",
+    "list": [
+      {
+        "name": "Photoshop"
+      },
+      {
+        "name": "Premiere"
+      },
+      {
+        "name": "Xd"
+      },
+      {
+        "name": "Figma"
+      }
+    ]
+  },
+  {
+    "type": "Others",
+    "list": [
+      {
+        "name": "Trello"
+      },
+
+      {
+        "name": "NPM"
+      },
+      {
+        "name": "SEO"
+      }
+    ]
+  }
+]

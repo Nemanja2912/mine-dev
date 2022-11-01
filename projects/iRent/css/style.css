@@ -1,0 +1,424 @@
+/*============= CSS NAVIGATION =============*/
+
+/*
+1.GENERAL SETTINGS
+2.SIDE NAVIGATION
+3.MAIN BACKGROUND SLIDER
+4.ABOUT US SECTION
+5.CAR-LIST SECTION
+6.TESTIMONIALS
+7.FOOTER
+8.CONATCT PAGE
+*/
+
+/*============= GENERAL SETTINGS =============*/
+
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  background-position: center;
+  background-size: cover;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.btn-danger {
+  background-color: transparent;
+  border: 3px solid rgb(92, 60, 0);
+}
+
+.btn-danger:hover {
+  background-color: rgb(92, 60, 0);
+  border: 1px solid rgb(92, 60, 0);
+}
+
+/*========== Side Navigation =============*/
+
+.logo {
+  position: absolute;
+  z-index: 10;
+  height: 70px;
+  top: 10px;
+  left: 10px;
+}
+
+.sidebar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 11;
+  top: 0;
+  right: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 50px;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+  padding: 0px 5px 10px 15px;
+  border: none;
+  position: absolute;
+  z-index: 10;
+  right: 0px;
+  top: 0px;
+}
+
+.openbtn:hover {
+  background-color: rgb(119, 119, 119);
+}
+
+/*=============Main BACKGROUND SLIDER=============*/
+
+.background-image1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/bg1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0px !important;
+}
+
+.background-image2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/bg2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0px !important;
+}
+
+.background-image3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/bg3.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0px !important;
+}
+
+.owl-dots {
+  position: absolute;
+  right: 0px;
+  top: 38vh;
+  right: 30px;
+  display: grid;
+}
+
+.owl-dot {
+  float: right !important;
+  height: 50px;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+  width: 3px;
+  height: 25px;
+}
+
+@media (max-width: 992px) {
+  .owl-dots {
+    display: none;
+  }
+}
+
+#background-slider h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+#background-slider h2 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+#background-slider a {
+  font-size: 20px;
+}
+
+.scroll {
+  position: absolute;
+  bottom: 10px;
+  width: 100px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+#point {
+  position: absolute;
+  bottom: 65px;
+}
+
+@media (max-width: 992px) {
+  #background-slider h1 {
+    font-size: 25px;
+  }
+  #background-slider h2 {
+    font-size: 25px;
+  }
+}
+
+/*============= About US Section =============*/
+
+.about-section {
+  margin-top: 50px;
+
+  color: black;
+}
+
+.about-section h3 {
+  font-size: 50px;
+}
+
+.img-logo {
+  background-image: url(../logo/logo-dark.png);
+  background-size: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.about-card {
+  padding: 50px 0 !important;
+}
+
+.whole-card {
+  widows: 300px;
+  height: 200px;
+  transition: 0.5s;
+  color: white;
+}
+
+.page1 {
+  background-color: rgb(27, 19, 13);
+  position: relative;
+  z-index: 1;
+  transform: translateY(100px);
+  padding: 20px 0 0px 0;
+}
+
+.acard:hover .page1 {
+  background-color: rgb(27, 19, 13);
+  transform: translateY(0px);
+}
+
+.page1 .ucontent {
+  opacity: 0.5;
+}
+
+.acard:hover .page1 .ucontent {
+  opacity: 1;
+}
+
+.page1 h3 {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.page2 {
+  background-color: white;
+  position: relative;
+  color: black;
+  padding: 10px 10px 10px 10px;
+  box-sizing: border-box;
+  box-shadow: 0 20px 50px rgb(0, 0, 0);
+  transition: 0.5s;
+  transform: translateY(-100px);
+}
+
+.acard:hover:hover .page2 {
+  transform: translateY(0px);
+}
+
+.about-card img {
+  height: 150px !important;
+}
+
+.page2 a {
+  border: 2px solid #333333;
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+.page2 a:hover {
+  background-color: #818181;
+}
+
+@media (max-width: 450px) {
+  .ucontent {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 270px) {
+  .ucontent {
+    font-size: 12px;
+  }
+}
+
+.about-section .btn-danger {
+  color: black;
+  font-weight: bold;
+}
+
+.about-section .btn-danger:hover {
+  color: white;
+}
+
+/*============= Car-list Section =============*/
+
+.car1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/car1.png);
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+
+.car2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/car2.jpg);
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+
+.car3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/car3.jpg);
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+
+.car-list h3 {
+  color: white;
+  position: absolute;
+  bottom: 40px;
+}
+
+.car-list a {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: rgb(175, 175, 175);
+  text-decoration: none;
+  padding: 5px;
+}
+
+/*============= Testimonials =============*/
+
+.testimonials-section {
+  color: black;
+}
+
+#testimonials {
+  color: black;
+}
+
+/*============= Footer =============*/
+
+footer {
+  background-color: rgb(14, 10, 7);
+}
+
+footer .col-lg-4 {
+  font-size: 30px;
+}
+
+footer a {
+  margin-left: 15px;
+  color: rgb(92, 60, 0);
+}
+
+.copyright {
+  background-color: rgb(63, 56, 50);
+}
+
+/*============= CONTACT PAGE =============*/
+
+.contact-page {
+  background-color: rgba(16, 16, 16);
+  margin: 0;
+  padding: 0;
+}
+
+.contant-cover {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/contact.jpg);
+  background-size: cover;
+  height: 70vh;
+  background-position: center;
+}
+
+.cb1 {
+  text-align: center;
+}
+.cb1 .border-r {
+  border-right: 1px solid rgb(41, 41, 41);
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+@media (max-width: 575px) {
+  .cb1 .border-r {
+    border-bottom: 1px solid rgb(41, 41, 41);
+  }
+  .cb1 .fas {
+    margin-top: 20px;
+  }
+}
+
+.row {
+  margin: 0 !important;
+}

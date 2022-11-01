@@ -1,0 +1,720 @@
+@font-face {
+    font-family: text; /* Р“Р°СЂРЅРёС‚СѓСЂР° С€СЂРёС„С‚Р° */
+    src: url(10391.ttf); /* РџСѓС‚СЊ Рє С„Р°Р№Р»Сѓ СЃРѕ С€СЂРёС„С‚РѕРј */
+}
+body {
+	margin:0;
+	padding:0;
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px){
+.categ {
+	width: 100%;
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	font-family: text;
+	margin-top: 50px;
+}
+.categ-top {
+	width: 1080px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.categ-top-item {
+	width:355px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	height: 82px;
+	border-bottom:2px solid #bd953f;
+	background:#0f0b08;
+	font-size:16px;
+}
+.categ-top-item i {
+	font-size: 20px !important;
+	margin-bottom: 10px;
+}
+.categ-content {
+	width: 1080px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 55px;
+}
+.categ-item {
+	width: 530px;
+	height:305px;
+	position: relative;
+	margin-bottom: 20px;
+}
+.categ-item__top {
+	position: absolute;
+	top: 15px;
+	font-size: 24px;
+	left:15px;
+	color:white;
+}
+.categ-item__bottom {
+	position: absolute;
+	bottom: 15px;
+	font-size: 16px;
+	color:white;
+	right:0;
+	cursor:pointer;
+}
+.categ-content > div:nth-child(1) {
+	background:url('../pics/aa5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(2) {
+	background:url('../pics/freeauto.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(3) {
+	background:url('../pics/aa7.jpeg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(4) {
+	background:url('../pics/h19.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(5) {
+	background:url('../pics/brod5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(6) {
+	background:url('../pics/Hummer-limuzine-iznajmljivanje-01.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(7) {
+	background:url('../pics/bank77.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(8) {
+	background:url('../pics/special-event.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(9) {
+	background:url('../img/IMG_3913.png');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(10) {
+	background:url('../pics/bottle.JPG');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(11) {
+	background:url('../pics/lasta6.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(12) {
+	background:url('../img/cunami/IMG_4334.JPG');
+	background-size:cover;
+	background-position:center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 990px) and (max-width: 1199px) {
+.categ {
+	width: 100%;
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	font-family: text;
+	margin-top: 50px;
+}
+.categ-top {
+	width: 895px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-left:-5px;
+}
+.categ-top-item {
+	width:355px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	height: 82px;
+	border-bottom:2px solid #bd953f;
+	background:#0f0b08;
+	font-size:16px;
+}
+.categ-top-item i {
+	font-size: 20px !important;
+	margin-bottom: 10px;
+}
+.categ-content {
+	width: 895px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 55px;
+}
+.categ-item {
+	width: 437px;
+	height:305px;
+	position: relative;
+	margin-bottom: 20px;
+}
+.categ-item__top {
+	position: absolute;
+	top: 15px;
+	font-size: 22px;
+	left:15px;
+	color:white;
+}
+.categ-item__bottom {
+	position: absolute;
+	bottom: 15px;
+	font-size: 14px;
+	color:white;
+	right:0;
+	cursor:pointer;
+}
+.categ-content > div:nth-child(1) {
+	background:url('../pics/aa5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(2) {
+	background:url('../pics/freeauto.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(3) {
+	background:url('../pics/aa7.jpeg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(4) {
+	background:url('../pics/h19.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(5) {
+	background:url('../pics/brod5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(6) {
+	background:url('../pics/Hummer-limuzine-iznajmljivanje-01.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(7) {
+	background:url('../pics/bank77.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(8) {
+	background:url('../pics/special-event.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(9) {
+	background:url('../img/IMG_3913.png');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(10) {
+	background:url('../pics/bottle.JPG');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(11) {
+	background:url('../pics/lasta6.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(12) {
+	background:url('../pics/lone1.jpg');
+	background-size:cover;
+	background-position:center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 770px) and (max-width: 989px) {
+.categ {
+	width: 100%;
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	font-family: text;
+	margin-top: 50px;
+}
+.categ-top {
+	width: 680px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-left:-5px;
+}
+.categ-top-item {
+	width:220px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	height: 82px;
+	border-bottom:2px solid #bd953f;
+	background:#0f0b08;
+	font-size:16px;
+}
+.categ-top-item i {
+	font-size: 20px !important;
+	margin-bottom: 10px;
+}
+.categ-content {
+	width: 680px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 55px;
+}
+.categ-item {
+	width: 330px;
+	height:305px;
+	position: relative;
+	margin-bottom: 20px;
+}
+.categ-item__top {
+	position: absolute;
+	top: 15px;
+	font-size: 18px;
+	left:15px;
+	color:white;
+}
+.categ-item__bottom {
+	position: absolute;
+	bottom: 15px;
+	font-size: 14px;
+	color:white;
+	right:0;
+	cursor:pointer;
+}
+.categ-content > div:nth-child(1) {
+	background:url('../pics/aa5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(2) {
+	background:url('../pics/freeauto.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(3) {
+	background:url('../pics/aa7.jpeg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(4) {
+	background:url('../pics/h19.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(5) {
+	background:url('../pics/brod5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(6) {
+	background:url('../pics/Hummer-limuzine-iznajmljivanje-01.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(7) {
+	background:url('../pics/bank77.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(8) {
+	background:url('../pics/special-event.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(9) {
+	background:url('../img/IMG_3913.png');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(10) {
+	background:url('../pics/bottle.JPG');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(11) {
+	background:url('../pics/lasta6.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(12) {
+	background:url('../img/cunami/IMG_4334.JPG');
+	background-size:cover;
+	background-position:center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 575px) and (max-width: 769px) {
+.categ {
+	width: 100%;
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	font-family: text;
+	margin-top: 50px;
+}
+.categ-top {
+	width: 500px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-left:-5px;
+}
+.categ-top-item {
+	width:220px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	height: 82px;
+	border-bottom:2px solid #bd953f;
+	background:#0f0b08;
+	font-size:14px;
+}
+.categ-top-item i {
+	font-size: 20px !important;
+	margin-bottom: 10px;
+}
+.categ-content {
+	width: 500px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 55px;
+}
+.categ-item {
+	width: 240px;
+	height:255px;
+	position: relative;
+	margin-bottom: 20px;
+}
+.categ-item__top {
+	position: absolute;
+	top: 15px;
+	font-size: 25px;
+	left:15px;
+	color:white;
+}
+.categ-item__bottom {
+	position: absolute;
+	bottom: 15px;
+	font-size: 14px;
+	color:white;
+	right:0;
+	cursor:pointer;
+}
+.categ-content > div:nth-child(1) {
+	background:url('../pics/aa5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(2) {
+	background:url('../pics/freeauto.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(3) {
+	background:url('../pics/aa7.jpeg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(4) {
+	background:url('../pics/h19.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(5) {
+	background:url('../pics/brod5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(6) {
+	background:url('../pics/Hummer-limuzine-iznajmljivanje-01.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(7) {
+	background:url('../pics/bank77.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(8) {
+	background:url('../pics/special-event.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(9) {
+	background:url('../img/IMG_3913.png');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(10) {
+	background:url('../pics/bottle.JPG');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(11) {
+	background:url('../pics/lasta6.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(12) {
+	background:url('../pics/lone1.jpg');
+	background-size:cover;
+	background-position:center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1px) and (max-width: 574px) {
+.categ {
+	width: 100%;
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	font-family: text;
+	margin-top: 50px;
+}
+.categ-top {
+	width: 98%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+.categ-top-item {
+	width:100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	height: 82px;
+	border-bottom:2px solid #bd953f;
+	background:#0f0b08;
+	font-size:18px;
+}
+.categ-top-item i {
+	font-size: 20px !important;
+	margin-bottom: 10px;
+}
+.categ-content {
+	width: 98%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 55px;
+}
+.categ-item {
+	width: 100%;
+	height:98vw;
+	position: relative;
+	margin-bottom: 20px;
+}
+.categ-item__top {
+	position: absolute;
+	top: 15px;
+	font-size: 25px;
+	left:15px;
+	color:white;
+}
+.categ-item__bottom {
+	position: absolute;
+	bottom: 15px;
+	font-size: 14px;
+	color:white;
+	right:0;
+	cursor:pointer;
+}
+.categ-content > div:nth-child(1) {
+	background:url('../pics/aa5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(2) {
+	background:url('../pics/freeauto.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(3) {
+	background:url('../pics/aa7.jpeg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(4) {
+	background:url('../pics/h19.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(5) {
+	background:url('../pics/brod5.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(6) {
+	background:url('../pics/Hummer-limuzine-iznajmljivanje-01.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(7) {
+	background:url('../pics/bank77.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(8) {
+	background:url('../pics/special-event.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(9) {
+	background:url('../img/IMG_3913.png');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(10) {
+	background:url('../pics/bottle.JPG');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(11) {
+	background:url('../pics/lasta6.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.categ-content > div:nth-child(12) {
+	background:url('../pics/lone1.jpg');
+	background-size:cover;
+	background-position:center;
+}
+}
+
+.categ-item__bottom {
+	right: 15px;
+}
+.pb-60 {
+
+    padding-bottom: 0px !important;
+     }

@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $('.overlay-close,.overlay-close-button').click(function(){
+        $('body').removeClass('over')
+        $('.flag-overlay').addClass('dn')
+    })
+    $('.selected-country').click(function(){
+        $('body').addClass('over')
+        $('.flag-overlay').removeClass('dn')
+    })
+})
